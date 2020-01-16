@@ -1,2 +1,2 @@
 # hash
-ok
+prankd
